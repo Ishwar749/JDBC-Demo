@@ -15,7 +15,12 @@ public class Solution{
      
      public static void main(String args[]){
           
+    	 // This is a comment
           Scanner sc = new Scanner(System.in);
+          
+          // Adding a new PrintStatement
+          System.out.println("Newly added print statment");
+          
           
           int n = sc.nextInt();
           
